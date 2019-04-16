@@ -1,4 +1,4 @@
-baseURL = "https://demo.uicard.io/"
+baseURL = "https://lcsfy.github.io/"
 languageCode = "en-us"
 title = "Lucian Enache"
 theme = "hugo-uilite"
