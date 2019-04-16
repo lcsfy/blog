@@ -8,9 +8,14 @@
 			"description" : "Working together with the team in Bucharest to empower our customers to acieve more, by assisting them in the interaction with our platform. Troubleshooting complex issues at the customer end, or at Azure end to determine and set-up an action plan for mitigating them. Worked with Microsoft specific products, like Azure webaps, Azure functions, Azure SQL, Key Vault, Azure VMs, and also with Open source technologies, like PHP, Java, Docker, Node.js, Vue.js, Python, Hugo, REST, etc" 
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "February 2016 - June 2017",
+			"company" : "H grup IT Expert",
+			"description" : "Worked as part of a big global team located in Bucharest and Paris, developing a large Java8 and Angular dockerized application. Also worked on multple in-house administrative Java/Js/PHP applications. Other technologies I worked with include Git, Grunt.JS, Maven, Angular.js, JQuery, etc"
+		},	
+		{
+			"timeperiod" : "March 2015 - February 2016",
+			"company" : "Stefanini",
+			"description" : "Work as part of a busy support team, taking calls from North American customers and resolving 2nd line incidents and problems, and also User Administration, Password Resets, PGP Encruption and basic 1st line resolution of desktop related issues. Worked with tools like SAP, Lotus Notes, HPSM, etc"
 		}
 	]
 }

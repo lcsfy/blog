@@ -1,6 +1,6 @@
 {
 	"title" : "Hello world, i'm",
 	"highlightedText" : "Lucian",
-	"description" : "A Microsoft Support engineer, specialized on Open Source technologies.",
+	"description" : "A Microsoft Support engineer, specialized on Open Source technologies. \n This site has been created in Hugo, and deployed with an Azure DEV-Ops Piepeline",
 	"displayPicture" : "Capture.PNG"
 }
