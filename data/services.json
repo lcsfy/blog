@@ -1,15 +1,20 @@
 {
-	"title" : "Services",
+	"title" : "Key capabilities",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "chalkboard-teacher",
+			"title" : "Trusted advisor",
+			"description" : "Working together with other teams, and learning about new technologies daily, helps me to always be informed of the best choices in my day-to-day work, and empowers me to help others when in need"
+		},		
+		{
+			"icon" : "cogs",
+			"title" : "OSS skills",
+			"description" : "Working together with other teams, and learning about new technologies daily, helps me to always be informed of the best choices in my day-to-day work, and empowers me to help others when in need"
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "cloud",
+			"title" : "Azure knowledge",
+			"description" : "I have worked in the past with multiple Microsoft Azure services, in order to expand my technical cababilities, and to help Microsoft customers facing complex chalanges."
 		}
 	]
 }

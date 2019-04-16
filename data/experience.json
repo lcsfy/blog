@@ -2,10 +2,10 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
+			"timeperiod" : "August 2017 - Present",
 			"company" : "Microsoft",
-			"title" : "SE",
-			"description" : " sad \n adfsdg /nUsing broad and in-depth product knowledge provide and facilitate the responsive delivery of technical solutions and information to major customers; \n Provide solutions to complex problems that satisfy our English and French speaking customer base. This involves dealing with difficult situations including complaint handling, sensitive customers and mission critical support; \n Build customer and partner loyalty through customer orientation, responsiveness and accountability; \n Work in an international environment and collaborate with your team to provide high-level support; \n Attend triage meetings with local or remote engineers to share knowledge and efficiently develop customer solutions; \n Develop and deliver internal and customer or others (e.g.: students) technical trainings/workshops in specialty areas; \n Assist in representing Microsoft in any forum (i.e. seminars, technical or marketing, conferences event) \n Work with local marketing people for product feedback, new product launches. "
+			"title" : "Service Engineer",
+			"description" : "Working together with the team in Bucharest to empower our customers to acieve more, by assisting them in the interaction with our platform. Troubleshooting complex issues at the customer end, or at Azure end to determine and set-up an action plan for mitigating them. Worked with Microsoft specific products, like Azure webaps, Azure functions, Azure SQL, Key Vault, Azure VMs, and also with Open source technologies, like PHP, Java, Docker, Node.js, Vue.js, Python, Hugo, REST, etc" 
 		},
 		{
 			"timeperiod" : "Nov 2017 - Present",

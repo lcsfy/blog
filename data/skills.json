@@ -1,9 +1,10 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Sketch" : "90",
-		"Penis" : "80",
-		"Illustrator" : "65",
-		"Photoshop" : "97"
+		"Microsoft Azure" : "90",
+		"Azure DEV-ops" : "80",
+		"Docker" : "83",
+		"PHP" : "75",
+		"Java" : "68"
 	}
 }
