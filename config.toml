@@ -1,0 +1,5 @@
+baseURL = "https://demo.uicard.io/"
+languageCode = "en-us"
+title = "Lucian Enache"
+theme = "hugo-uilite"
+
