@@ -9,12 +9,17 @@
 		{
 			"icon" : "cogs",
 			"title" : "OSS skills",
-			"description" : "Working together with other teams, and learning about new technologies daily, helps me to always be informed of the best choices in my day-to-day work, and empowers me to help others when in need"
+			"description" : "In my efforts to stay up to date with the daily changes in the tech world, I have commited to a horizontal development, trying to aquire technicall skills in as many domains as possible."
 		},
 		{
 			"icon" : "cloud",
 			"title" : "Azure knowledge",
 			"description" : "I have worked in the past with multiple Microsoft Azure services, in order to expand my technical cababilities, and to help Microsoft customers facing complex chalanges."
+		},
+		{
+			"icon" : "book-reader",
+			"title" : "Support professional",
+			"description" : "I demonstrate commitment to finding solutions to the issues that our customers from different cultural backgrounds encounter daily, and I seek every opportunity to empower their success"
 		}
 	]
 }
